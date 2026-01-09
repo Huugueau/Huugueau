@@ -6,9 +6,16 @@
 
 ## 💬 About Me
 
-| ## Working At |
-| ------------- |
-| ![Epicure Connect](./assets/epicure.png/) |
+  | Name | Location | Working At | 
+  | ---- | -------- | ------------- |
+  | Huugueau | Bordeaux, France | Epicure Connect |
+
+
+
+| Working Stacks | Favorite Stacks |
+| -------------- | --------------- |
+| ![Working Stacks](https://skillicons.dev/icons?i=js,css,php,nodejs,wordpress,mysql) | ![Favorite Stacks](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,docker,java,linux) |
+
 
 
 <!--
