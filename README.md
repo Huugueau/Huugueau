@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+| Stats  | Langagues | Streaks |
+|------|-----|-----------|
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Huugueau&show_icons=true) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Huugueau) | ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Huugueau&theme=light) |
+
+## 💬 About Me
+
+| ## Working At |
+| ------------- |
+| ![Epicure Connect](./assets/epicure.png/) |
+
+
 <!--
 **Huugueau/Huugueau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
