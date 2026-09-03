@@ -8,13 +8,13 @@
 
   | Name | Location | Working At | 
   | ---- | -------- | ------------- |
-  | Huugueau | Bordeaux, France | Epicure Connect |
+  | Huugueau | Bordeaux, France | ~ |
 
 
 
 | Working Stacks | Favorite Stacks |
 | -------------- | --------------- |
-| ![Working Stacks](https://skillicons.dev/icons?i=js,css,php,nodejs,wordpress,mysql) | ![Favorite Stacks](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,docker,java,linux) |
+| ![Working Stacks](https://skillicons.dev/icons?i=js,css,php,nodejs,wordpress,mysql,mongodb,redis) | ![Favorite Stacks](https://skillicons.dev/icons?i=js,ts,mysql,mongodb,redis,react,nodejs,py,docker,java,linux) |
 
 
 
